@@ -3,10 +3,6 @@ from tkinter import messagebox
 import base64
 import os
 
-app = Dash(__name__)
-server = app.server
-
-
 
 def decrypt():
     password = code.get()
