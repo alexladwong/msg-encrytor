@@ -3,6 +3,9 @@ from tkinter import messagebox
 import base64
 import os
 
+secret-message-app.app
+
+
 
 def decrypt():
     password = code.get()
